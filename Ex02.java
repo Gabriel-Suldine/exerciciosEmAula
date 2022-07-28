@@ -7,7 +7,7 @@ package exerciciosEmAula;
 
 /**
  *
- * @author 03569198200
+ * @author SULDINE
  */
 public class Ex02 {
 
